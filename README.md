@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jane-muthoka&show_icons=true&locale=en" alt="jane-muthoka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jane-muthoka&" alt="jane-muthoka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jane-muthoka&" alt="her-streak" /></p>

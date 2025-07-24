@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jane Muthoka</h1>
 <h3 align="center">A data Scientist and AI Engineer</h3>
-<h4 align="center">Vibe coding</h4>
+
 
 - 🔭 I’m currently working on **different projects.**
 

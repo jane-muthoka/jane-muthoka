@@ -1,16 +1,16 @@
-name: Update README with Spotify Now Playing
+name: Update Spotify Now Playing
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: xHyroM/github-profile-readme-spotify-now-playing@v2
+      - uses: andrewshk/spotify-github-profile@v2
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}

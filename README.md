@@ -145,7 +145,7 @@
 
 ### 🎧 Vibes While I Code
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zfmgpxstdllldypmifazo5gi6m&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zfmgpxstdllldypmifazo5gi6m&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zfmgpxstdllldypmifazo5gi6m&cover_image=false&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zfmgpxstdllldypmifazo5gi6m&redirect=true)
 
 ---
 

@@ -137,7 +137,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jane-muthoka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jane-muthoka" alt=her Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jane-muthoka" alt="her Streak" />
 </p>
 
 

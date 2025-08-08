@@ -126,7 +126,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -136,16 +135,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jane-muthoka&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jane-muthoka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jane-muthoka" alt="her Streak" />
-</p>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jane-muthoka" alt="GitHub Streak" /></a>
+</div>
+
 
 
 ---
 
 ### 🎧 Vibes While I Code
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zfmgpxstdllldypmifazo5gi6m&cover_image=false&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zfmgpxstdllldypmifazo5gi6m&redirect=true)
 
+</div>
 ---
 

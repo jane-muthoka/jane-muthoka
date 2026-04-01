@@ -38,9 +38,6 @@
   <a href="https://kaggle.com/janemuthoka" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://instagram.com/dev__.jay" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 ---
